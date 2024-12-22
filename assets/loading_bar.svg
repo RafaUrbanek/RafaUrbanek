@@ -1,5 +1,5 @@
 <!-- Loading bar -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="8" viewBox="0 0 1000 8">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="5" viewBox="0 0 1080 5">
   <!-- Gradient to animated bars --> 
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -10,25 +10,25 @@
     </linearGradient>
   </defs>
   <!-- Background bar -->
-  <rect x="0" y="0" width="1000" height="8" fill="#9614d0" rx="6" />
+  <rect x="0" y="0" width="1080" height="5" fill="#9614d0" rx="6" />
   <!-- Animated bar 1 -->
-  <rect x="0" y="0" width="250" height="8" fill="url(#gradient)" rx="6">
+  <rect x="0" y="0" width="270" height="5" fill="url(#gradient)" rx="6">
     <animate 
       attributeName="x" 
-      from="-250" 
-      to="1000" 
-      dur="2s" 
+      from="-270" 
+      to="1080" 
+      dur="1.5s" 
       repeatCount="indefinite"
       begin="0s" />
   </rect>
   <!-- Animated bar 2 -->
-  <rect x="0" y="0" width="250" height="8" fill="url(#gradient)" rx="6">
+  <rect x="0" y="0" width="270" height="5" fill="url(#gradient)" rx="6">
     <animate 
       attributeName="x" 
-      from="-250" 
-      to="1000" 
-      dur="2s" 
+      from="-270" 
+      to="1080" 
+      dur="1.5s" 
       repeatCount="indefinite"
-      begin="1s" />
+      begin="0.75s" />
   </rect>
 </svg>
