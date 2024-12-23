@@ -91,7 +91,8 @@
 
 <!--- Contact (start) --->
 <div>
-  <h2>Contact</h2>
+  <h2>&nbsp;<img src="assets/contact.png" width="25" heigth="200" alt="contact">&nbsp;&nbsp;Contact
+  </h2>
   <!-- Website -->
   <a href="https://rafaurbanek.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
   <!-- LinkedIn -->
