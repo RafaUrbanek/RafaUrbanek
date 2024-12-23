@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="35" viewBox="0 0 220 35">
+    <!-- Fundo do distintivo -->
+    <rect width="220" height="35" style="fill:#310047; stroke-width:0" />
+    <rect width="220" height="35" x="85" y="0" style="fill:#9614d0" />
+
+    <!-- Texto no distintivo -->
+    <text x="20%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fire Code, sans-serif" font-size="18" fill="#9614d0">
+        Made by
+    </text>
+    <text x="69%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fire Code, sans-serif" font-size="18" fill="#310047">
+        Rafael Urbanek
+    </text>
+</svg>
