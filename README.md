@@ -10,7 +10,7 @@
   </div>
   <!--- Typing SVG text --->
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9614D0&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+Student;Software+Engineer;Passionate+backend+and+frontend+development;Always+learning+new+things" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9614D0&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+Student;Passionate+backend+and+frontend+development;Always+learning+new+things" alt="Typing SVG" /></a>
   </p>
 </div>
 <!--- Header (end) --->
