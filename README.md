@@ -21,7 +21,7 @@
 <div>
   <p align="center"><img src="https://img.shields.io/static/v1?label=Overview&message=Rafael+Urbanek&color=9614D0&style=for-the-badge&logo=GitHub" alt="Overview"></p>
   <p align="center">
-    My name is Rafael Urbanek, I am a full-stack developer, passionate about programming, technology and solving complex problems. 
+    My name is Rafael Urbanek, I am passionate about programming, technology and solving complex problems. 
     I am currently studying the sixth period of Computer Science at the Federal University of Paraná, always looking for new learning. 
     Here you will find projects, ideas and experiments in the areas that fascinate me.
   </p>
